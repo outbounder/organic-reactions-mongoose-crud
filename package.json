@@ -1,0 +1,16 @@
+{
+  "name": "organic-reactions-mongoose-crud",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "organic": "0.1.1",
+    "organic-reactions-rest": "https://github.com/outbounder/organic-reactions-rest/archive/master.tar.gz"
+  },
+  "devDependencies": {
+    "jasmine-node": "latest"
+  },
+  "license": "MIT"
+}
