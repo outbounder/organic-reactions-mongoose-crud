@@ -7,7 +7,9 @@
   },
   "dependencies": {
     "organic": "0.1.1",
-    "organic-reactions-rest": "https://github.com/outbounder/organic-reactions-rest/archive/master.tar.gz"
+    "organic-alchemy": "https://github.com/outbounder/organic-alchemy/archive/master.tar.gz",
+    "organic-reactions-rest": "https://github.com/outbounder/organic-reactions-rest/archive/master.tar.gz",
+    "organic-reactions-expressSend": "https://github.com/outbounder/organic-reactions-expressSend/archive/master.tar.gz"
   },
   "devDependencies": {
     "jasmine-node": "latest"
